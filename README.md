@@ -4,7 +4,7 @@ This repository stores the datasets, R Code and STATA Code to replicate the rese
 Mathew J. Creighton, Peter Schmidt and Diana Zavala-Rojas. This article is published in the
 International Migration journal (2018). DOI: 10.1111/imig.12519
 
-If you use part of the code, datasets, and findings to inspire your own scientific work, please cite this article:
+If you use part of the code, datasets, and/or findings to inspire your own scientific work, please cite this article:
 
 Creighton, M., Schmidt, P., & Zavala-Rojas, D. (2018). Race, Wealth and the Masking of Opposition to Immigrants 
 in the Netherlands. International Migration. https://doi.org/10.1111/imig.12519
