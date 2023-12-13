@@ -1,4 +1,4 @@
-# MigrationListExperimentsUnmaskTrueOpnionios
+# Netherland_List_Experiment
 This repository stores the datasets, R Code and STATA Code to replicate the research findings in the article:
 "Race, Wealth and the Masking of Opposition to Immigrants in the Netherlands" by
 Mathew J. Creighton, Peter Schmidt and Diana Zavala-Rojas. This article is published in the
